@@ -28,9 +28,9 @@ Topics:
 ### Steps for "Declaring" your routes
 
 - [ x] Inside of your `App.js` file `import { Route } from 'react-router-dom';`
-- [ ] This is where we're going to declare and specify our router.
-- [ ] Create 3 `<Route />` setting their `path` prop equal to `/`, `/about`, `/contact` with their respective components.
-- [ ] Be sure to include the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
+- [ x] This is where we're going to declare and specify our router.
+- [ x] Create 3 `<Route />` setting their `path` prop equal to `/`, `/about`, `/contact` with their respective components.
+- [x ] Be sure to include the `exact` prop on the root component for `/` to make sure that it's rendering the exact component and not all the other components.
 
 ### Steps for setting up your Navigation
 
